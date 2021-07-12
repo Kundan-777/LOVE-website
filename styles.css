@@ -1,0 +1,76 @@
+body{
+    
+   background-image: url(LoveBackground.jpg);
+   background-size: 100%;
+   padding-top: 40px;
+
+   
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Pacifico', cursive;
+}
+.container{
+    padding-top: 100px;
+    
+    text-align: center;
+    
+    
+    
+  
+
+   
+    
+}
+h3{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+      
+}
+
+#fname{
+    margin-right: 20px;
+
+}
+
+.button:hover{
+    color: darkgrey;
+
+}
+.button{
+    font-family: serif;
+    border-radius: 10%;
+   
+}
+.first{
+    margin-right: 250px;
+    padding: 30px;
+}
+.second{
+    margin-right: 200px;
+    padding: 40px;
+}
+.click{
+    text-align: center;
+
+    
+}
+
+#number{
+    font-size: 45px;
+    font-family: cursive;
+    color: #F21170;
+}
+#b{
+    width: 70px;
+    height: 35px;
+    
+    
+}
+p{
+    font-size: 20px;
+}
